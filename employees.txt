@@ -2,3 +2,4 @@ ID: 1, Name: Ravi, Salary: 25000
 ID: 2, Name: Sita, Salary: 30000
 ID: 3, Name: Arun, Salary: 28000
 ID: 4, Name: krishna, Saalary: 37000
+ID: 5, Name: Ajay, Salary: 26000
