@@ -1,1 +1,2 @@
 ID: 9, Name: Naveen, Salary: 55000
+ID: 10, Name: praveen, Salary: 85000
